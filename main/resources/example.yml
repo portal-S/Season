@@ -1,0 +1,46 @@
+Season:
+  executecommand: 'example' #Откроет GUI-интерфейс (Скрин прикрепил)
+  title: 'example'
+  name: '&bЗимний сезон'
+  seasonStart: 20.12.2020
+  discord-verify: true #Требуется ли подтверждение Discord
+  seasonClosed: 07.01.2021
+  joincount: 12 #Время в часах за которое игрок должен посетить сервер
+  playertime: 30 #Сколько минут должен отыграть игрок
+
+days:
+  1:
+    enabled: true #Включены ли true - да false - нет
+    commands:
+      - 'give %player% 1 10'
+      - 'kit presents %player%'
+  2:
+    enabled: true #Включены ли true - да false - нет
+    commands:
+      - 'give %player% 1 10'
+      - 'kit presents %player%'
+  3:
+    enabled: true #Включены ли true - да false - нет
+    commands:
+      - 'give %player% 1 10'
+      - 'kit presents %player%'
+  4:
+    enabled: true #Включены ли true - да false - нет
+    commands:
+      - 'give %player% 1 10'
+      - 'kit presents %player%'
+  5:
+    enabled: true #Включены ли true - да false - нет
+    commands:
+      - 'give %player% 1 10'
+      - 'kit presents %player%'
+  6:
+    enabled: true #Включены ли true - да false - нет
+    commands:
+      - 'give %player% 1 10'
+      - 'kit presents %player%'
+  7:
+    enabled: true #Включены ли true - да false - нет
+    commands:
+      - 'give %player% 1 10'
+      - 'kit presents %player%'

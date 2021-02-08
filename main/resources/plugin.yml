@@ -1,0 +1,9 @@
+main: ru.portal.seasons.SeasonPlugin
+name: SeasonPlugin
+version: 1.0
+description:
+softdepend:
+  - Bot
+commands:
+  season:
+  newyear:

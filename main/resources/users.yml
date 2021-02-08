@@ -1,0 +1,15 @@
+users:
+  user:
+    dsId: 123
+    season:
+      summer:
+        day: 1
+        leavetime: 1
+        playTime: 15
+        LastplayMil: 1
+        rewardDays:
+          - 1
+          - 2
+          - 3
+          - 4
+

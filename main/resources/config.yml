@@ -1,0 +1,33 @@
+itemsMenu:
+  yesI:
+    id: 38
+    data: 5
+    name: '&3День '
+    lore:
+      - '&aНажмите чтобы забрать подарок'
+  noI:
+    id: 38
+    data: 4
+    name: '&3День '
+    lore:
+      - '&cВам пока не доступен этот подарок'
+  none:
+    id: 32
+    data: 0
+    name: '&3День '
+    lore:
+      - '&7Вы уже забрали этот подарок'
+  backGround:
+    id: 102
+    data: 0
+  toNextPage:
+    id: 369
+    data: 0
+  onPrevPage:
+    id: 280
+    data: 0
+
+no_verify_msg: '&cДля участия в данном событии необходимо привязать Discord аккаунт!'
+
+whitelist:
+  - 'player'
